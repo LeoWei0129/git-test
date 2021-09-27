@@ -15,5 +15,8 @@ public class GitTest {
     public static void main(String[] args) {
         // soyt
         System.out.println("hello git!");
+        // 新添加一行，文件名稱(在右邊的項目管理器中)的顏色會變成blue，代表已追蹤過，但還沒提交，透過git add then git commit提交
+        // 到本地庫
+        System.out.println("hello gcp!");
     }
 }
