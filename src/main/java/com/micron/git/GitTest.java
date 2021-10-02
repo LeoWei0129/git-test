@@ -22,5 +22,7 @@ public class GitTest {
         System.out.println("hello spark!");
         // merge conflict test
         System.out.println("merge conflict at line 23 by master");
+        // merge conflict test
+        System.out.println("merge conflict at line 23 by hot fix");
     }
 }
