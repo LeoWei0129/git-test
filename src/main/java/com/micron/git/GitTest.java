@@ -26,5 +26,7 @@ public class GitTest {
         System.out.println("merge conflict at line 23 by hot fix");
         // git push test
         System.out.println("git push test by master");
+        // modify on GitHub, git pull test
+        System.out.println("git pull test by master from remote");
     }
 }
